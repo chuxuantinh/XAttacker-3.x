@@ -1,0 +1,7 @@
+#LWP-Cookies-1.0
+Set-Cookie3: __cfduid=d55cbe3f2241d5d9b2b869b132bcc296d1583116295; path="/"; domain=.nazeranyekta.ir; path_spec; expires="2020-04-01 02:31:35Z"; HttpOnly; SameSite=Lax; version=0
+Set-Cookie3: ja_purity_tpl=ja_purity; path="/"; domain=2013.geront.org.ua; path_spec; expires="2021-02-20 02:08:00Z"; version=0
+Set-Cookie3: 6d17ee612f4f0038e2c25832ebc3b99b=q5ena4on95h86154lo3p6875i1; path="/"; domain=helion-ltd.ru; path_spec; expires="2020-03-13 02:30:21Z"; version=0
+Set-Cookie3: currency=SEK; path="/"; domain=private.bulkshoppen.org; path_spec; expires="2020-04-01 02:04:44Z"; version=0
+Set-Cookie3: language=sv; path="/"; domain=private.bulkshoppen.org; path_spec; expires="2020-04-01 02:04:44Z"; version=0
+Set-Cookie3: 5af99b0acc2ed1525611b041446a780a=fa-IR; path="/"; domain=www.nazeranyekta.ir; path_spec; expires="2021-03-03 00:34:59Z"; version=0
